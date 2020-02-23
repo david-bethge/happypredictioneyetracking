@@ -1,0 +1,18 @@
+Pupil diameter (X and Y) & Mean, standard deviation and PSD (or DE) in four bands: 0-0.2 Hz, 0.2-0.4 Hz, 0.4-0.6 Hz, 0.6-1 Hz \\  -> diam_x_mean, diam_y_mean, diam_x_sd, diam_y_sd, diam_x_psd0.2Hz, diam_y_psd0.2Hz, diam_x_psd0.4Hz, diam_y_psd0.4Hz, diam_x_psd0.6Hz, diam_y_psd0.6Hz, diam_x_psd1Hz, diam_y_psd1Hz
+Dispersion(X and Y)      & Mean, standard deviation\\   -> disp_x_mean, disp_y_mean, disp_x_sd, disp_y_sd
+Fixation duration (ms)   & Mean, standard deviation \\  -> fix_mean, fix_sd
+Blink duration (ms)      & Mean, standard deviation \\ -> blink_mean, blink_sd
+Saccade                  & Mean, standard deviation of saccade  duration (ms) and saccade amplitude (°)\\ -> sacc_dur_mean, sacc_dur_sd, sacc_ampl_mean, sacc_ampl_sd
+Event statistics         & Blink frequency, fixation frequency, fixation duration maximum, fixation dispersion total, fixation dispersion  maximum,saccade frequency, saccade                                  duration average, saccade amplitude average, saccade latency average \\
+
+col_names_x = [ diam_x_mean, diam_y_mean, diam_x_sd, diam_y_sd, diam_x_psd0.2Hz, diam_y_psd0.2Hz, diam_x_psd0.4Hz, diam_y_psd0.4Hz, diam_x_psd0.6Hz, diam_y_psd0.6Hz, diam_x_psd1Hz, diam_y_psd1Hz,
+				disp_x_mean, disp_y_mean, disp_x_sd, disp_y_sd,
+				fix_mean, fix_sd,
+				blink_mean, blink_sd
+				sacc_dur_mean, sacc_dur_sd, sacc_ampl_mean, sacc_ampl_sd
+				Blink frequency, fixation frequency, fixation duration maximum, fixation dispersion total, fixation dispersion  maximum,saccade frequency, saccade                                  duration average, saccade amplitude average, saccade latency average
+
+				]
+
+
+12 + 4+2+4+ 10 = 32
