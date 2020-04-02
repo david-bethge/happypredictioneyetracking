@@ -1,0 +1,6 @@
+
+#ignore all logs
+*.logs
+*ipynb_checkpoints
+/data/*
+
