@@ -1,0 +1,4 @@
+This is an implementation of the paper: "Analyzing Transferability of Happiness Detection via Gaze Tracking in Multimedia Applications" 
+accepted at ACM ETRA 2020
+
+(Label) 0: neutral, 1: sad, 2: fear, 3: happy
