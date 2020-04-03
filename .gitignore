@@ -3,5 +3,5 @@
 *.logs
 *ipynb_checkpoints
 /data/*
-/plots/*
+/plots/*.png
 /pycache/*
