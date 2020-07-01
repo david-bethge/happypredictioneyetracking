@@ -17,7 +17,7 @@ In this analysis, we decode happy emotions as 1 (all other observations as 0).
 
 ## Installing
 Clone the existing repository:
-'''
+```
 git clone https://github.com/davebeght/happypredictioneyetracking
-'''
+
  
